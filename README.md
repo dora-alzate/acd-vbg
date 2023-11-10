@@ -1,7 +1,7 @@
 # acd-vbg
 Este corpus fue resultado de la investigación para el trabajo de grado análisis crítico del discurso de testimonios de violencias basadas en género publicados en el medio periodístico Volcánicas para optar al título de filóloga hispánista de la Universidad de Antioquia. 
 
-Esta investigación se realizó en colaboración y asesoría de: María Isabel Marín Morales,  Magíster en Ingeniería de Sistemas, Asesora principal; Wilfer León Arias Loaiza, Magíster en Lingüística, coasesor.
+Esta investigación se realizó en colaboración y asesoría de: María Isabel Marín Morales,  Magíster en Ingeniería de Sistemas, asesora principal; Wilfer León Arias Loaiza, Magíster en Lingüística, coasesor.
 
 El primer compromiso para el análisis fue recopilar el corpus de testimonios narrados en primera persona de Volcánicas, en español y en el período de referencia de 2019 a 2022. Como resultado se agruparon 123 testimonios en los siguientes niveles: 
 Nivel 1, que contiene los archivos en todas las tipologías que se hallaron en el medio (e. g. texto, imágenes, grabaciones) y, adicionalmente, una matriz de metadatos que recoge aspectos relevantes sobre los archivos.
