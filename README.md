@@ -14,6 +14,6 @@ Nivel 5 en el que, además, de incorporarse las características del nivel 4, se
 Además, de los cinco niveles que conforman el corpus se encuentran las siguientes carpetas: 
 Scripts de procesamiento: contiene los códigos con los cuales se realizó la limpieza en cada nivel y ensayos previos al análisis para seperación de oraciones y extracción temática.
 Subcorpus: esta carpeta corresponde al 48% de la totalidad del corpus, contiene testimonios directos de las víctimas y se utilizó para el análisis de las estructuras retóricas del discurso.
-Instrumentos: almacena los instrumentos que se utilizaron para la investigación; del Anexo 2.Instrumento, de sistematización según las categorías propuestas por van Dijk (1999) e Instrumento 3. Glosario, incluye las definiciones de los temas más frecuentes junto con cada uno de sus rasgos, tal como se presentan en las Tablas 5 y 6 de la investigación.
+Instrumentos: almacena los instrumentos que se utilizaron para la investigación; Anexo 2.Instrumento, de sistematización según las categorías propuestas por van Dijk (1999) e Instrumento 3. Glosario, incluye las definiciones de los temas más frecuentes junto con cada uno de sus rasgos, tal como se presentan en las Tablas 5 y 6 de la investigación.
 
 Este corpus se distribuye bajo la licencia Creative Commons Attribution 4.0
